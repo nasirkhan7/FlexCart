@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.image1 {
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+h1 {
+    padding-top: 10%;
+}
+
+.mid h6 {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.home-page {
+
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.card {
+    background-color: #F0F3F2;
+
+}
+
+.page-1 {
+    padding-left: 25%;
+}
+
+.features h4 {
+    padding-left: 10%;
+}
+
+.features p {
+    padding-left: 10%;
+}
+
+.features {
+    align-items: center;
+}
+
+.f-img {
+    margin: auto;
+}
